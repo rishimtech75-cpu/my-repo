@@ -1,0 +1,71 @@
+TC ID,Summary,Steps,Expected,Type,Priority
+TC_DLC_15,Pop up  appears ‘Processing your request ..’after clicking to submit button,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab ",Number Assignment tab should be available ,Functional,Medium
+TC_DLC_16,Check Number listing screen appears after successfully submitting ,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab ",Start Number Assignment with ‘Add number’ should be displayed when click to ‘Number Assignment’ tab,Functional,Medium
+TC_DLC_17,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button ",Select Campaign screen should be displayed  when click to ‘Add Number’ button,Functional,Medium
+TC_DLC_18,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button ",Listing of campaigns should be displayed  when click to ‘Add Number’ button,Functional,Medium
+TC_DLC_19,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the number ",Next button highlights in green color should be displayed when user select the any campaign from the listing,Functional,Medium
+TC_DLC_20,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click to Cancel button",Screen navigate back to Previous screen ‘Start Number Assignment’ when click to Cancel button,Functional,Medium
+TC_DLC_21,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click to Cancel button",Number Assignment screen should be displayed after selecting the Campaign,Functional,Medium
+TC_DLC_22,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the number ",User should be able to select the number by clicking ‘Add numbers to Campaign’ dropdown ,Functional,Medium
+TC_DLC_23,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the number ",User should be able to select atleast 1 number from the listing from the  Add numbers to Campaign’ dropdown ,Functional,Medium
+TC_DLC_24,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the multiple numbers ",User should be able to select multiple number by checkmark on the Add numbers to Campaign’ dropdown ,Functional,Medium
+TC_DLC_25,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the multiple numbers ",Submit button should be highlighted in Green color when user select the numbers ,Functional,Medium
+TC_DLC_26,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the multiple numbers upto 49 ",Validate that user should be able to select numbers upto maximum of 49.,Functional,Medium
+TC_DLC_27,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the multiple numbers upto 49 ",selected numbers should be displayed on Selected number section along with Count,Functional,Medium
+TC_DLC_28,,"1. Log into MyPDC
+
+2. Navigate to Admin > SMS Registration 
+
+3. Click to Number Assignment tab 4. Click to Add number button 5. Click on Dropdown 6. Select the multiple numbers  7. Click to Back button",User should be able to click ‘Back’ button to navigate back ‘Select campaign’ screen,Functional,Medium
